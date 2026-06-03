@@ -1,7 +1,7 @@
 ## Hi, I'm Judy Ossello. 
 
 ### AI mechanic studying what happens when AI gets mixed into real systems. 
-My work is grounded in over 15 years leading enterprise transformation at Intel and Nike Global Technology: standing up operating models, managing AI portfolios no one else wanted to own, and learning what it actually takes to turn an interesting experiment into accountable organizational capability.
+My work is grounded in over 15 years leading enterprise transformation at Intel and Nike Global Technology: standing up operating models, managing AI portfolios no one else wanted to own, and learning what it actually takes to turn an interesting experiment into an accountable organizational capability.
 
 ### Getting Started
 Through the course of the next few weeks, I'll be learning and using GitHub on my AI Product Strategy certification with Product School.
