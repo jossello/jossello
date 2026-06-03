@@ -1,7 +1,7 @@
 ## Hi, I'm Judy Ossello. 
 
 ### Studying how AI behaves inside real-world systems and designing the structures that help people and AI work together predictably.
-My work is grounded in over 15 years leading enterprise transformation at Intel and Nike Global Technology: standing up operating models, managing AI portfolios no one else wanted to own, and learning what it actually takes to turn an interesting experiment into an organizational capability.
+My work is grounded in 15+ years leading enterprise transformation at Intel and Nike Global Technology: standing up operating models, managing AI portfolios, and learning what it takes to operationalize AI within existing systems — not just in pilots, but in production, at scale, under real organizational pressure.
 
 ### Responsibility Engineering for AI Behavior
 Responsibility Engineering is the practice of defining scope, authority, accountability, and escalation for AI systems so they behave predictably inside real-world workflows. It focuses on the operational structures surrounding AI—not just the model itself—to ensure work remains reliable, governable, and accountable in production.
