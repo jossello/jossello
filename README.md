@@ -6,6 +6,8 @@ My work is grounded in over 15 years leading enterprise transformation at Intel 
 ### Responsibility Engineering for AI Behavior
 Responsibility Engineering is the practice of defining scope, authority, accountability, and escalation for AI systems so they behave predictably inside real-world workflows. It focuses on the operational structures surrounding AI—not just the model itself—to ensure work remains reliable, governable, and accountable in production.
 
+📄 Read the Paper: [Responsibility Engineering: Designing Scope, Authority, Accountability, and Escalation for AI Systems](https://zenodo.org/records/18319740)
+
 ### Getting Started
 Through the course of the next few weeks, I'll be learning and using GitHub on my AI Product Strategy certification with Product School.
 
